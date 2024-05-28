@@ -40,7 +40,7 @@ A simple yet powerful expense tracking application built with React, TypeScript,
 
 2. **Clone the repository:**
    ```bash
-   git clone https://github.com/HariKrishna-9885699666/expense-tracker-vite-react-typescript-redux-bootstrap
+   git clone https://github.com/HariKrishna-9885699666/expense-tracker-vite-react-typescript-redux-bootstrap.git
    cd expense-tracker-vite-react-typescript-redux-bootstrap
    npm install
    npm run dev
