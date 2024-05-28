@@ -3,6 +3,10 @@ Expense Tracker - Vite + React + TS + Redux + Boostrap CSS
 
 A simple yet powerful expense tracking application built with React, TypeScript, Redux Toolkit, and Bootstrap CSS.  This project allows you to:
 
+## Live Demo
+
+You can check out the live demo of the application here: [Expense Tracker Demo](https://expense-tracker-vite-react-ts-redux.netlify.app/)
+
 - **Add expenses:**  Record your daily expenses with descriptions, amounts, categories, and dates.
 - **Edit expenses:** Easily modify existing expense details.
 - **Delete expenses:** Remove unwanted expenses from your records.
