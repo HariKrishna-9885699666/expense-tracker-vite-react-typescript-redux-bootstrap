@@ -7,6 +7,8 @@ A simple yet powerful expense tracking application built with React, TypeScript,
 
 You can check out the live demo of the application here: [Expense Tracker Demo](https://expense-tracker-vite-react-ts-redux.netlify.app/)
 
+##
+
 - **Add expenses:**  Record your daily expenses with descriptions, amounts, categories, and dates.
 - **Edit expenses:** Easily modify existing expense details.
 - **Delete expenses:** Remove unwanted expenses from your records.
